@@ -25,7 +25,7 @@ export default function Layout() {
   }
 
   return (
-    <GestureHandlerRootView style={{ flex: 1}}>
+    <GestureHandlerRootView style={{ flex: 1 }}>
       <Stack
         screenOptions={{
           headerShown: false,
